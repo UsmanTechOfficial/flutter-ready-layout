@@ -1,0 +1,6 @@
+is_package: true
+package_name: flutter_layout_ready
+maintainer_name: M_Usman
+maintainer_username: UsmanTechOfficial
+package_description: A Flutter mixin for running code once immediately after a widget’s first layout/frame is complete.
+pub_package_name: flutter_layout_ready

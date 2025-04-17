@@ -1,6 +1,6 @@
 name: flutter_ready_layout
 description: "Execute code once immediately after a widget’s first layout/frame is complete."
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/UsmanTechOfficial/flutter-ready-layout
 maintainer: M_Usman <usmantech.me@gmail.com>
 
